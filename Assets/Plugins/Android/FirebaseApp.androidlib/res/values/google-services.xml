@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://peppa-v3-fixed-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">781524187972</string>
+  <string name="google_storage_bucket" translatable="false">peppa-v3-fixed.appspot.com</string>
+  <string name="project_id" translatable="false">peppa-v3-fixed</string>
+  <string name="google_api_key" translatable="false">AIzaSyCc8J_BE9sRtgJyP7bH1Y4Pf7BD9MBfCUs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCc8J_BE9sRtgJyP7bH1Y4Pf7BD9MBfCUs</string>
+  <string name="google_app_id" translatable="false">1:781524187972:android:f08c27672e74834af87511</string>
+  <string name="default_web_client_id" translatable="false">781524187972-rmelsqnvr96k5ed4l56m93rpatotja9l.apps.googleusercontent.com</string>
+</resources>

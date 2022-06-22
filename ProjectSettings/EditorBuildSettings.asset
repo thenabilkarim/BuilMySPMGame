@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Game/_Scenzdes/MainScene.unity
-    guid: 946285f0755242679c19f7dd193cb4b8
+    path: Assets/_Game/_Scenes/Splash.unity
+    guid: b4429568e46f431899fd1e54e8b32707
   - enabled: 1
-    path: Assets/_Game/_Scenzdes/PaintScene.unity
-    guid: 81bb2ccd1d5a40799d6506092f7aac7d
+    path: Assets/_Game/_Scenes/PaintScene.unity
+    guid: b65da8e6f3154048a59a87753110dcd5
+  - enabled: 1
+    path: Assets/_Game/_Scenes/NotiSc.unity
+    guid: b50311ccb36941da87c82b450171b2b4
+  - enabled: 1
+    path: Assets/_Game/_Scenes/MainScene.unity
+    guid: 176a08f355994359885cd4328069f2fa
   m_configObjects: {}
